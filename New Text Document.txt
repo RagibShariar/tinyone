@@ -1,0 +1,14 @@
+font-family: 'PT Sans', sans-serif;
+
+
+yellow : #fcdb00
+heading : #010101
+sub heading : 313841
+heading paragraph : #555555
+body paragraph : 898989
+
+
+font-size
+
+        xxl-xl-lg      md       sm-col
+menu        22px      22px      20px       

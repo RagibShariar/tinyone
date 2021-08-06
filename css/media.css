@@ -47,8 +47,34 @@
         padding-right: 0;
         text-align: center !important;
     }
-    
     /* feature end */
+    /* contact form */
+    .contact{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .contact-form {
+        margin-top: 30px;
+        padding: 0;
+    } 
+    .contact-form input{
+        margin-bottom: 10px;
+        height: 40px;
+    }
+    .contact-form .submit-btn{
+        height: 40px;
+    }
+    /* contact end */  
+    /* footer start */
+    footer{
+        padding-top: 0;
+        padding-bottom: 60px;
+    }
+    footer address{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    /* footer end */
 }
 
  /* Small devices (landscape phones, 576px and up) */
@@ -88,6 +114,38 @@
         text-align: center !important;
     }
     /* feature end */
+    /* section title */
+    .section-title{
+        margin-top: 40px;
+        padding: 0;
+    }
+    /* contact form */
+    .contact{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .contact-form {
+        margin-top: 35px;
+        padding: 0;
+    } 
+    .contact-form input{
+        margin-bottom: 15px;
+        height: 40px;
+    }
+    .contact-form .submit-btn{
+        height: 40px;
+    }
+    /* contact end */  
+    /* footer start */
+    footer{
+        padding-top: 10px;
+        padding-bottom: 60px;
+    }
+    footer address{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    /* footer end */
 }
 
  /* Medium devices (tablets, 768px and up) */
@@ -111,12 +169,46 @@
         margin-top: 40px;
     }
     /* feature end */
+    /* section title */
+    .section-title{
+        margin-top: 40px;
+        padding: 0;
+    }
+    /* contact form */
+    .contact{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .contact-form {
+        margin-top: 40px;
+        padding: 0;
+    }
+    /* footer start */
+    footer{
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    /* footer end */
 }
 
  /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
     .slider-content{
         padding-right: 10px;
+    }
+    /* section title */
+    .section-title{
+        margin-top: 40px;
+        padding: 0;
+    }
+    /* contact form */
+    .contact{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .contact-form {
+        margin-top: 45px;
+        padding: 0;
     }
 }
 
